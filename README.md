@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @guizzah. I just like to code.
+- 👀 I’m interested in learning stuff. Useful or not
+- 🌱 I’m currently learning C#, vb.net. Curious about phyton, maybe I will give a try.
